@@ -1,0 +1,6 @@
+.idea/*
+data/*
+models/*
+notebooks/*
+venv/*
+*.h5
