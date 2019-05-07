@@ -1,4 +1,4 @@
-# Automatic Identification of Bird Species using Machine Learning
+# Automatic Identification of Bird Species using Computer Vision
 
 ## Usage
 
